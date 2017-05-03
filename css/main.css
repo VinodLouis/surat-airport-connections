@@ -1,0 +1,104 @@
+body {
+  background: #faf5e2;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #444;
+  font-size: 12px;
+}
+
+header {
+  color: #7c6e63;
+  text-transform: uppercase;
+  width: 960px;
+  margin: 0 auto;
+  position: relative;
+}
+
+header h1 {
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+header h2 {
+  font-family: "HelveticaNeue-ThinCond", "Helvetica Neue Thin Cond", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  position: absolute;
+  top: -7px;
+}
+
+header h2.right {
+  right: 0;
+}
+
+.subunit {
+  fill: none;
+  stroke: #597a99;
+  stroke-width: .5;
+}
+
+.subunit.natural-earth {
+  fill: none;
+}
+
+
+.frame1 {
+  width: 952px;
+  height: 663px;
+  margin: 0 auto;
+  border: 2px solid #6b5d50;
+  padding: 2px;
+}
+
+.frame2 {
+  border: 1px solid #a19e8d;
+  padding: 20px;
+}
+
+.map {
+  background: #a3bfd5;
+}
+
+.place {
+  fill: rgba(255,255,255,0.01);
+  stroke: #584f46;
+}
+
+#states {
+  fill: rgba(255,255,255,0.01);
+  stroke: #7D947C;
+  stroke-width: .5px;
+}
+
+text {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  pointer-events: none;
+}
+
+.line {
+  fill: none;
+  stroke: #ddd;
+}
+
+.route {
+  display: none;
+  stroke-width: 0;
+}
+.plane {
+  fill: #fff;
+  stroke-width: 0;
+}
+
+#sur-ant{
+	fill: none;
+	stroke: #ff0000;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
