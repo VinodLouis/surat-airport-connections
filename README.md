@@ -73,4 +73,4 @@ i.e get the origin and destination airport co-ordinates and then animate the pla
 
 
 You have full source code in the repo Enjoy! :+1:
-For a live demo see [surat-connectivity-development](http://www.vinodlouis.in/surat-airport-connections/)
+For a live demo see [surat-connectivity-development](http://www.vinodlouis.com/demos/surat-airport-connections/)
